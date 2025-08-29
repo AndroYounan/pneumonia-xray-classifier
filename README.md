@@ -17,10 +17,11 @@ A deep learning pipeline for pneumonia detection using chest X-ray images. Inclu
 - **Grad-CAM** used to visualize model attention on lung regions
 
 ## 📁 Repository Structure
-
-├── Pneumonia_Xray_Classifier.ipynb # Main notebook with full pipeline 
-├── final_pneumonia_model_full.pth # Saved final model object (Custom CNN) 
-└── README.md # Project overview 
+```
+├── Pneumonia_Xray_Classifier.ipynb # Main notebook with full pipeline
+├── final_pneumonia_model_full.pth # Saved final model object (Custom CNN)
+└── README.md # Project overview
+```
 
 ## 📦 Dataset
 
